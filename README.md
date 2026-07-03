@@ -9,6 +9,14 @@ Final-year Computer Science student passionate about <b>Software Development</b>
 Currently preparing for <b>Software Development Engineer (SDE)</b> roles while building projects in AI, Computer Vision, Full-Stack Development, and Generative AI.
 </p>
 
+
+## 🌱 Currently
+
+- 🛰 Working on **AI-Based UAV Intrusion Detection** as part of my DRDO internship.
+- 💻 Preparing for **Software Development Engineer (SDE)** roles through consistent DSA practice and core CS revision.
+- 📚 Exploring **System Design** and writing cleaner, more scalable software.
+- 🚀 Continuously improving my development skills by building end-to-end projects.
+
 ---
 
 <!--
